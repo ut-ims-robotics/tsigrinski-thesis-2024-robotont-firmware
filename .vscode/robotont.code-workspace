@@ -1,0 +1,52 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        },
+    ],
+    "settings": {
+        "editor.rulers": [
+            120
+        ],
+        "C_Cpp.clang_format_style": "file",
+        "files.associations": {
+            "*.c": "c",
+            "stdbool.h": "c",
+            "stdint.h": "c",
+            "cmd.h": "c",
+            "usbif.h": "c",
+            "usbd_cdc_if.h": "c",
+            "usbd_cdc.h": "c",
+            "usbd_ioreq.h": "c",
+            "usbd_core.h": "c",
+            "usbd_def.h": "c",
+            "usbd_conf.h": "c",
+            "pid.h": "c",
+            "math.h": "c",
+            "stm32f4xx_it.h": "c",
+            "peripheral.h": "c",
+            "stm32f4xx_hal.h": "c",
+            "stdlib.h": "c",
+            "motor.h": "c",
+            "system_hal.h": "c",
+            "motor_cfg.h": "c",
+            "timerif.h": "c"
+        },
+        "cSpell.words": [
+            "OLED",
+            "Robotont"
+        ],
+    },
+    "extensions": {
+        "recommendations": [
+            // required
+            "ms-vscode.cpptools",
+            "platformio.platformio-ide",
+            // optional
+            "aaron-bond.better-comments",
+            "tal7aouy.icons",
+            "streetsidesoftware.code-spell-checker",
+            "cschlosser.doxdocgen"
+        ]
+    }
+}
